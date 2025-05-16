@@ -14,7 +14,7 @@ Este proyecto y/o examen implementa un árbol AVL (árbol binario de búsqueda a
 - Terminal o línea de comandos
 
 ## Instrucciones de Ejecución
-## Enlace de video: 
+## Enlace de video: https://youtu.be/8qgeR2KFFTU
 
 ### Compilación
 1. Asegúrate de tener los 3 archivos en el mismo directorio(carpeta):
